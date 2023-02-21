@@ -1,0 +1,6 @@
+modulo built-in(incorporados)
+
+- modulos que no requieren instalacion ala trabajar con nodejs
+
+- son muy utliles para manejar nodejs
+
